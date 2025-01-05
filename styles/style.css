@@ -1,0 +1,57 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00729f;
+    text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+#introduction
+{
+  text-align:center;
+  font-size:25px;
+  color:#00729f;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+html {
+  background-color: #00539f;
+}
+
+.divCss{
+  margin-bottom: 10px;
+}
+.olCss{
+  padding-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  margin-left: 40px;
+}
+.inputClass {
+  float:left;
+  margin-left: -50px;
+}
+.liRight {
+  
+}
+
